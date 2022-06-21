@@ -89,3 +89,23 @@ MadCap|dropDownHotspot
 	color: #006600;
 }
 
+h1.autorunH1
+{
+	
+}
+
+h2.autonumH2
+{
+	mc-auto-number-format: '{chapnum}.';
+}
+
+h3.autonumH3
+{
+	mc-auto-number-format: '{chapnum}.{n}{n+}';
+}
+
+p.listOfImages
+{
+	mc-auto-number-format: 'inherit';
+}
+

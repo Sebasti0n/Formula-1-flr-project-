@@ -3,7 +3,8 @@
     <head>
     </head>
     <body>
-        <h1>Mclaren</h1>
-        <p>Delete this text and replace it with your own content.</p>
+        <p>
+            <img src="../Images/1644831223911.jpg" style="width: 600px;height: auto;" />
+        </p>
     </body>
 </html>
