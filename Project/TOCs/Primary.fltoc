@@ -29,7 +29,7 @@
       Link="/Content/Aston Martin.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/AlphaTauri.htm" />
+      Link="/Content/F1 Teams/AlphaTauri.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Haas F1 Team.htm" />
