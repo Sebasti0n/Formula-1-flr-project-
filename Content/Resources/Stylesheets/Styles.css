@@ -109,3 +109,11 @@ p.listOfImages
 	mc-auto-number-format: 'inherit';
 }
 
+@media mobile
+{
+	h4
+	{
+		font-weight: lighter;
+	}
+}
+

@@ -2,11 +2,18 @@
 <CatapultDestination
   Version="1"
   Comment="This is my publish destination"
-  Host="login.salesforce.com"
+  Host="johntest1.zendesk.com"
   User="MyAccountId"
   Password=""
-  Directory="services/oauth2/authorize"
+  Directory="oauth/authorizations/new"
   Port=""
   ViewUrl=""
-  Type="salesforce"
-  DestinationId="04624231-ed22-4d77-be25-b30a7e224c62"></CatapultDestination>
+  Type="zendesk"
+  DestinationId="04624231-ed22-4d77-be25-b30a7e224c62"
+  ClickUrl="https://johntest1.zendesk.com"
+  UserVisibility=""
+  CreateSubSections="false"
+  DefaultCategory="5000851408787"
+  PublishAfterUpload="false"
+  DefaultSection="5000952188947"
+  PermissionGroup="2708754"></CatapultDestination>

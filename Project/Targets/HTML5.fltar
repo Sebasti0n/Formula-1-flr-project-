@@ -12,5 +12,10 @@
     GenerateTOCProxy="true"
     GenerateIndexProxy="true"
     GenerateGlossaryProxy="true" />
-  <Destinations></Destinations>
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/Destination.fldes"
+      Publish="true"
+      IsResource="false" />
+  </Destinations>
 </CatapultTarget>
