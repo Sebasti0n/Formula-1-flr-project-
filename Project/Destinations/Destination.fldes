@@ -2,13 +2,13 @@
 <CatapultDestination
   Version="1"
   Comment="This is my publish destination"
-  Host="johntest1.zendesk.com"
+  Host="login.salesforce.com"
   User="MyAccountId"
   Password=""
-  Directory="oauth/authorizations/new"
+  Directory="services/oauth2/authorize"
   Port=""
-  ViewUrl=""
-  Type="zendesk"
+  ViewUrl="http://www.madcapsoftware.com/"
+  Type="salesforce"
   DestinationId="04624231-ed22-4d77-be25-b30a7e224c62"
   ClickUrl="https://johntest1.zendesk.com"
   UserVisibility=""
@@ -16,4 +16,8 @@
   DefaultCategory="5000851408787"
   PublishAfterUpload="false"
   DefaultSection="5000952188947"
-  PermissionGroup="2708754"></CatapultDestination>
+  PermissionGroup="2708754"
+  ArticleType="Knowledge__kav"
+  RichTextField="Answer__c"
+  AssetLibrary="0585Y000000smyGQAQ"
+  RecordType="0125Y000001mT4CQAU"></CatapultDestination>
