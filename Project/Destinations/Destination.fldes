@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="This is my publish destination"
+  Host="login.salesforce.com"
+  User="MyAccountId"
+  Password=""
+  Directory="services/oauth2/authorize"
+  Port=""
+  ViewUrl="http://www.madcapsoftware.com/"
+  Type="salesforce"
+  DestinationId="04624231-ed22-4d77-be25-b30a7e224c62"
+  ClickUrl="https://johntest1.zendesk.com"
+  UserVisibility=""
+  CreateSubSections="false"
+  DefaultCategory="5000851408787"
+  PublishAfterUpload="false"
+  DefaultSection="5000952188947"
+  PermissionGroup="2708754"
+  ArticleType="Knowledge__kav"
+  RichTextField="Answer__c"
+  AssetLibrary="0585Y000000smyGQAQ"
+  RecordType="0125Y000001mT4CQAU"></CatapultDestination>
