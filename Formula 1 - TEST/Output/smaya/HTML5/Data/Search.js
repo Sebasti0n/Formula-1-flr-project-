@@ -1,0 +1,1 @@
+﻿define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/Alfa Romeo C42.htm'],s:['1','time'],p:[['1',0],['george',15],['springs',40]]});

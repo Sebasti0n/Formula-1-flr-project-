@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  MasterPage="file:///C:/Flare/Formula 1/Formula 1 - TEST/Content/Resources/Template Page/Home page.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Template Page/Home page.flmsp" />
+    <Link
+      Url="Content/Resources/Snippets/Ferrari Logo.flsnp" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Template Page/Home page.flmsp" />
+    <Link
+      Url="Content/Resources/Snippets/Ferrari Logo.flsnp" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="In" />
+    <Anchor
+      Name="2021" />
+    <Anchor
+      Name="2020" />
+    <Anchor
+      Name="2019" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

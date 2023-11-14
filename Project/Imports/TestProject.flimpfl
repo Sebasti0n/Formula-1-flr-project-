@@ -1,0 +1,105 @@
+﻿thout<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject
+  Version="1"
+  MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
+  MasterPageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+  MasterStylesheetOverride="True"
+  xml:lang="en-us"
+  Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project."
+  IncludePattern="*.htm;*.html"
+  AutoExcludeNonTaggedFiles="false"
+  IncludeLinkedFiles="false"
+  DeleteStale="true"
+  DeleteUnreferenced="true"
+  AutoSync="true"
+  LastImport="2022-11-03T11:40:42.9545082-05:00">
+  <Files>
+    <Url
+      Source="file:///C:/Flare/TEST/TestProject/TestProject.flprj"
+      AbsoluteSource="file:///C:/Flare/TEST/TestProject/TestProject.flprj" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles>
+    <Url
+      Source="../../../TEST/TestProject/Content/DropdownHangingIndent.htm"
+      AbsoluteSource="file:///C:/Flare/TEST/TestProject/Content/DropdownHangingIndent.htm" />
+    <Url
+      Source="../../../TEST/TestProject/Content/Eggs.htm"
+      AbsoluteSource="file:///C:/Flare/TEST/TestProject/Content/Eggs.htm" />
+    <Url
+      Source="../../../TEST/TestProject/Content/GlossaryBug.htm"
+      AbsoluteSource="file:///C:/Flare/TEST/TestProject/Content/GlossaryBug.htm" />
+    <Url
+      Source="../../../TEST/TestProject/Content/imageSBOF.html"
+      AbsoluteSource="file:///C:/Flare/TEST/TestProject/Content/imageSBOF.html" />
+    <Url
+      Source="../../../TEST/TestProject/Content/Installation.htm"
+      AbsoluteSource="file:///C:/Flare/TEST/TestProject/Content/Installation.htm" />
+    <Url
+      Source="../../../TEST/TestProject/Content/Step 2 Prepare Mounting Surface.htm"
+      AbsoluteSource="file:///C:/Flare/TEST/TestProject/Content/Step 2 Prepare Mounting Surface.htm" />
+    <Url
+      Source="../../../TEST/TestProject/Content/Step 3 Prepare Wirebox and.htm"
+      AbsoluteSource="file:///C:/Flare/TEST/TestProject/Content/Step 3 Prepare Wirebox and.htm" />
+    <Url
+      Source="../../../TEST/TestProject/Content/TEST.htm"
+      AbsoluteSource="file:///C:/Flare/TEST/TestProject/Content/TEST.htm" />
+    <Url
+      Source="../../../TEST/TestProject/Content/Topic.htm"
+      AbsoluteSource="file:///C:/Flare/TEST/TestProject/Content/Topic.htm" />
+    <Url
+      Source="../../../TEST/TestProject/Content/xref.htm"
+      AbsoluteSource="file:///C:/Flare/TEST/TestProject/Content/xref.htm" />
+    <Url
+      Source="../../../TEST/TestProject/Content/Resources/DropdownHangingIndent.htm"
+      AbsoluteSource="file:///C:/Flare/TEST/TestProject/Content/Resources/DropdownHangingIndent.htm" />
+    <Url
+      Source="../../../TEST/TestProject/Content/Resources/Eggs.htm"
+      AbsoluteSource="file:///C:/Flare/TEST/TestProject/Content/Resources/Eggs.htm" />
+    <Url
+      Source="../../../TEST/TestProject/Content/Resources/Topic.htm"
+      AbsoluteSource="file:///C:/Flare/TEST/TestProject/Content/Resources/Topic.htm" />
+  </CollectedSourceFiles>
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/DropdownHangingIndent.htm"
+      TimeStamp="9/28/2022 7:34:09 AM" />
+    <Url
+      Source="../../Content/Eggs.htm"
+      TimeStamp="10/11/2022 1:53:15 PM" />
+    <Url
+      Source="../../Content/GlossaryBug.htm"
+      TimeStamp="10/6/2022 9:49:19 PM" />
+    <Url
+      Source="../../Content/imageSBOF.html"
+      TimeStamp="9/30/2022 12:27:56 PM" />
+    <Url
+      Source="../../Content/Installation.htm"
+      TimeStamp="9/27/2022 11:50:55 AM" />
+    <Url
+      Source="../../Content/Step 2 Prepare Mounting Surface.htm"
+      TimeStamp="9/27/2022 11:50:55 AM" />
+    <Url
+      Source="../../Content/Step 3 Prepare Wirebox and.htm"
+      TimeStamp="9/27/2022 11:50:55 AM" />
+    <Url
+      Source="../../Content/TEST.htm"
+      TimeStamp="10/4/2022 12:24:27 PM" />
+    <Url
+      Source="../../Content/Topic.htm"
+      TimeStamp="9/30/2022 12:51:37 PM" />
+    <Url
+      Source="../../Content/xref.htm"
+      TimeStamp="9/30/2022 12:44:57 PM" />
+    <Url
+      Source="../../Content/Resources/DropdownHangingIndent.htm"
+      TimeStamp="9/28/2022 7:55:59 AM" />
+    <Url
+      Source="../../Content/Resources/Eggs.htm"
+      TimeStamp="10/11/2022 9:20:11 AM" />
+    <Url
+      Source="../../Content/Resources/Topic.htm"
+      TimeStamp="10/6/2022 9:11:23 AM" />
+  </GeneratedFiles>
+</CatapultProject>

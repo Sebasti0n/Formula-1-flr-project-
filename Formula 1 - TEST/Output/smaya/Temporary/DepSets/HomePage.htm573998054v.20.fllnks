@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/Styles.css" />
+    <Link
+      Url="Content/Resources/Images/dqo6eqhfiap81.png" />
+    <Link
+      Url="Content/F1 Teams/Mercedes.htm" />
+    <Link
+      Url="Content/F1 Teams/Red Bull Racing.htm" />
+    <Link
+      Url="Content/F1 Teams/Ferrari.htm" />
+    <Link
+      Url="Content/F1 Teams/Mclaren.htm" />
+    <Link
+      Url="Content/F1 Teams/Alpine.htm" />
+    <Link
+      Url="Content/F1 Teams/Aston Martin.htm" />
+    <Link
+      Url="Content/F1 Teams/AlphaTauri.htm" />
+    <Link
+      Url="Content/F1 Teams/Alfa Romeo.htm" />
+    <Link
+      Url="Content/F1 Teams/Haas F1 Team.htm" />
+    <Link
+      Url="Content/F1 Teams/Williams.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/Styles.css" />
+    <Link
+      Url="Content/Resources/Images/dqo6eqhfiap81.png" />
+    <Link
+      Url="Content/F1 Teams/Mercedes.htm" />
+    <Link
+      Url="Content/F1 Teams/Red Bull Racing.htm" />
+    <Link
+      Url="Content/F1 Teams/Ferrari.htm" />
+    <Link
+      Url="Content/F1 Teams/Mclaren.htm" />
+    <Link
+      Url="Content/F1 Teams/Alpine.htm" />
+    <Link
+      Url="Content/F1 Teams/Aston Martin.htm" />
+    <Link
+      Url="Content/F1 Teams/AlphaTauri.htm" />
+    <Link
+      Url="Content/F1 Teams/Alfa Romeo.htm" />
+    <Link
+      Url="Content/F1 Teams/Haas F1 Team.htm" />
+    <Link
+      Url="Content/F1 Teams/Williams.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

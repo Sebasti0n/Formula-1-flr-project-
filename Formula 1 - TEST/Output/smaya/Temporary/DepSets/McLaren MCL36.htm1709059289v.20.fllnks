@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Images/daniel-ricciardo-mclaren-mcl36.jpg" />
+    <Link
+      Url="Content/F1 Drivers/Lando Norris.htm" />
+    <Link
+      Url="Content/F1 Drivers/Daniel Ricciardo.htm" />
+    <Link
+      Url="Content/Resources/Images/Mclaren Drivers.jpg" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Images/daniel-ricciardo-mclaren-mcl36.jpg" />
+    <Link
+      Url="Content/F1 Drivers/Lando Norris.htm#Lando" />
+    <Link
+      Url="Content/F1 Drivers/Daniel Ricciardo.htm#Daniel" />
+    <Link
+      Url="Content/Resources/Images/Mclaren Drivers.jpg" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

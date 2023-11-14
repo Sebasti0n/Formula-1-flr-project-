@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="false"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/HomePage.htm" />
+    <Link
+      Url="Content/F1 Teams/Mercedes.htm" />
+    <Link
+      Url="Content/F1 Teams/Ferrari.htm" />
+    <Link
+      Url="Content/F1 Teams/Mclaren.htm" />
+    <Link
+      Url="Content/F1 Teams/Red Bull Racing.htm" />
+    <Link
+      Url="Content/F1 Teams/Alpine.htm" />
+    <Link
+      Url="Content/F1 Teams/Aston Martin.htm" />
+    <Link
+      Url="Content/F1 Teams/AlphaTauri.htm" />
+    <Link
+      Url="Content/F1 Teams/Haas F1 Team.htm" />
+    <Link
+      Url="Content/F1 Teams/Williams.htm" />
+    <Link
+      Url="Content/F1 Drivers/Max Verstappen.htm" />
+    <Link
+      Url="Content/F1 Drivers/Sergio Perez.htm" />
+    <Link
+      Url="Content/F1 Drivers/Carlos Sainz.htm" />
+    <Link
+      Url="Content/F1 Drivers/Charles Leclerc.htm" />
+    <Link
+      Url="Content/F1 Drivers/Lewis Hamilton.htm" />
+    <Link
+      Url="Content/F1 Drivers/George Russell.htm" />
+    <Link
+      Url="Content/F1 Drivers/Lando Norris.htm" />
+    <Link
+      Url="Content/F1 Drivers/Daniel Ricciardo.htm" />
+    <Link
+      Url="Content/F1 Drivers/Valtteri Bottas.htm" />
+    <Link
+      Url="Content/F1 Drivers/Esteban Ocon.htm" />
+    <Link
+      Url="Content/F1 Drivers/Fernando Alonso.htm" />
+    <Link
+      Url="Content/F1 Drivers/Pierre Gasly.htm" />
+    <Link
+      Url="Content/F1 Drivers/Kevin Magnussen.htm" />
+    <Link
+      Url="Content/F1 Drivers/Yuki Tsunoda.htm" />
+    <Link
+      Url="Content/F1 Drivers/Sebastian Vettel.htm" />
+    <Link
+      Url="Content/F1 Drivers/Lance Stroll.htm" />
+    <Link
+      Url="Content/F1 Drivers/Zhou Guanyu.htm" />
+    <Link
+      Url="Content/F1 Drivers/Alexander Albon.htm" />
+    <Link
+      Url="Content/F1 Drivers/Mick Schumacher.htm" />
+    <Link
+      Url="Content/F1 Drivers/Nicholas Latifi.htm" />
+    <Link
+      Url="Project/Skins/HTML5 - Side Navigation.flskn" />
+    <Link
+      Url="Content/F1 Races/Bahrain.htm" />
+    <Link
+      Url="Content/F1 Races/Saudi Arabia.htm" />
+    <Link
+      Url="Content/F1 Races/Miami.htm" />
+    <Link
+      Url="Content/F1 Races/Italy.htm" />
+    <Link
+      Url="Content/F1 Races/Australia.htm" />
+    <Link
+      Url="Content/F1 Races/Spain.htm" />
+    <Link
+      Url="Content/F1 Races/Monaco.htm" />
+    <Link
+      Url="Content/F1 Races/Azerbaijan.htm" />
+    <Link
+      Url="Content/F1 Races/Canada.htm" />
+    <Link
+      Url="Content/Red Bull RB18.htm" />
+    <Link
+      Url="Content/Mercedes W13.htm" />
+    <Link
+      Url="Content/McLaren MCL36.htm" />
+    <Link
+      Url="Content/Ferrari F1-75.htm" />
+    <Link
+      Url="Content/Aston Martin AMR22.htm" />
+    <Link
+      Url="Content/AlphaTauri AT03.htm" />
+    <Link
+      Url="Content/Williams FW44.htm" />
+    <Link
+      Url="Content/Alpine F1 A522.htm" />
+    <Link
+      Url="Content/HAAS F1 VF-22.htm" />
+    <Link
+      Url="Content/Alfa Romeo C42.htm" />
+  </Links>
+  <LongLinks />
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

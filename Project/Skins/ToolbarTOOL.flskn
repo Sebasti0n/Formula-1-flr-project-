@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="6"
+  SkinType="Component"
+  Comment="HTML5 Toolbar skin"
+  ComponentType="TopicToolbar"
+  EnableResponsiveOutput="True">
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="ToolbarItem">
+        <Classes>
+          <StyleClass
+            Name="ThumbsDown"
+            Custom="true">
+            <Properties>
+              <Property
+                Name="BackgroundRepeat">no-repeat</Property>
+              <Property
+                Name="BackgroundPosition">center center</Property>
+              <Property
+                Name="BackgroundImage">url('thumbs-down-sign_1f44e.png')</Property>
+              <Property
+                Name="Click">window.open('https://docs.madcapsoftware.com/doc-team/Source-Control.pdf'); return</Property>
+            </Properties>
+          </StyleClass>
+          <StyleClass
+            Name="ThumbsUP"
+            Custom="true">
+            <Properties>
+              <Property
+                Name="BackgroundRepeat">no-repeat</Property>
+              <Property
+                Name="BackgroundPosition">center center</Property>
+              <Property
+                Name="BackgroundImage">url('thumbs-up-sign_1f44d.png')</Property>
+              <Property
+                Name="Click">sendMail(); return false</Property>
+            </Properties>
+          </StyleClass>
+        </Classes>
+      </Style>
+      <Medium
+        Name="Tablet">
+        <Style
+          Name="ToolbarItem">
+          <Classes>
+            <StyleClass
+              Name="ThumbsDown">
+              <Properties>
+                <Property
+                  Name="BackgroundRepeat">no-repeat</Property>
+                <Property
+                  Name="BackgroundPosition">center center</Property>
+              </Properties>
+            </StyleClass>
+            <StyleClass
+              Name="ThumbsUP">
+              <Properties>
+                <Property
+                  Name="BackgroundRepeat">no-repeat</Property>
+                <Property
+                  Name="BackgroundPosition">center center</Property>
+              </Properties>
+            </StyleClass>
+          </Classes>
+        </Style>
+      </Medium>
+      <Medium
+        Name="Mobile">
+        <Style
+          Name="ToolbarItem">
+          <Classes>
+            <StyleClass
+              Name="ThumbsDown">
+              <Properties>
+                <Property
+                  Name="BackgroundRepeat">no-repeat</Property>
+                <Property
+                  Name="BackgroundPosition">center center</Property>
+              </Properties>
+            </StyleClass>
+            <StyleClass
+              Name="ThumbsUP">
+              <Properties>
+                <Property
+                  Name="BackgroundRepeat">no-repeat</Property>
+                <Property
+                  Name="BackgroundPosition">center center</Property>
+              </Properties>
+            </StyleClass>
+          </Classes>
+        </Style>
+      </Medium>
+    </Styles>
+    <Stylesheet></Stylesheet>
+    <Resources>
+      <Resource
+        Name="thumbs-down-sign_1f44e.png">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</Resource>
+      <Resource
+        Name="thumbs-up-sign_1f44d.png">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</Resource>
+    </Resources>
+  </Stylesheet>
+  <TopicToolbar
+    EnableCustomLayout="true"
+    Buttons="TopicRatings|ThumbsDown|ThumbsUP">
+    <Script>$('.like, .dislike').on('click', function() {
+    event.preventDefault();
+    $('.active').removeClass('active');
+    $(this).addClass('active');
+});</Script>
+  </TopicToolbar>
+  <Strings />
+</CatapultSkin>

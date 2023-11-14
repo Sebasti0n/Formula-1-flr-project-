@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TableStyles/Rows.css" />
+    <Link
+      Url="Content/Resources/Images/00_03_W13_FrontRight_LH_Akk_4252.jpeg" />
+    <Link
+      Url="Content/Resources/Images/01_W13_Front_GR_AKK.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TableStyles/Rows.css" />
+    <Link
+      Url="Content/Resources/Images/00_03_W13_FrontRight_LH_Akk_4252.jpeg" />
+    <Link
+      Url="Content/Resources/Images/01_W13_Front_GR_AKK.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/Rows.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>
